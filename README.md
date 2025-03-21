@@ -2,7 +2,7 @@
 
 ## 🔹 Overview  
 
-"This project is a **data warehouse** designed to integrate data from multiple sources (CRM, ERP) into a structured format for analysis. The architecture follows the **Bronze-Silver-Gold layered approach**, ensuring data quality and accessibility. 
+"This project is a **data warehouse** designed to integrate data from multiple sources (CRM, ERP) into a structured format for analysis. The architecture follows the **Bronze-Silver-Gold layered approach**, ensuring data quality and accessibility.
 
 ## 🔹 Architecture  
 ### **1️⃣ Data Sources**
@@ -84,3 +84,6 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
+## Analytics on the Gold Layer
+The [Analtyics Repository](https://github.com/orchaid/SQL_Data_Analytics_Project/tree/main) serves as a continuation of this project.
+
